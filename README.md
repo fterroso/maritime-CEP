@@ -1,5 +1,5 @@
 # Maritime-CEP
- Maritime-CEp provides a Complex Event Processing (CEP) solution to deal with spatio-temporal data in a maritime environment. It has been designed to act as a decission suport system in a Vessel Traffic Service to detect suspicious and risky situations among vessels enclosed in a certain area. 
+ Maritime-CEP provides a Complex Event Processing (CEP) solution to deal with spatio-temporal data in a maritime environment. It has been designed to act as a decission suport system in a Vessel Traffic Service to detect suspicious and risky situations among vessels enclosed in a certain area. 
  
  In its current version, maritime-CEP processes the spatio-temporal data from a file but it can be easily adapted to process such data in real-time at the same time the target vessels move.
  
