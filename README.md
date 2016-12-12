@@ -4,7 +4,8 @@ Maritime-CEP provides a Complex Event Processing (CEP) solution to deal with spa
  
  In its current version, maritime-CEP processes the spatio-temporal data from a file but it can be easily adapted to process such data in real-time at the same time the target vessels move.
  
-##Third-party libraries dependencies
+## Requirements
+###Library dependencies
 * Esper 4.6
 * log4j 1.2.16
 * jcoord 1.0
