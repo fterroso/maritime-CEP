@@ -11,7 +11,10 @@ Maritime-CEP provides a Complex Event Processing (CEP) solution to deal with spa
 * jcoord 1.0
 * jDOM
 * JTS Topoloty Suite 1.8
- 
+
+## License
+Maritime-CEP is licensed under General Public License (GPL) version 3.
+
 ## References
  
  Please, refer to this system as,
